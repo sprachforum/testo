@@ -1,0 +1,6 @@
+---
+layout: default
+---
+
+  <p>site.collections: {{ site.collections }}</p>
+  <p>site.documents[1]: {{ site.documents['About'] }}</p>
